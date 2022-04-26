@@ -1,3 +1,4 @@
+# HACK: This is a temporary fix due to the test suit unloading `Config`
 load 'config/dry_validation_requirements.rb'
 require_relative '../error'
 
